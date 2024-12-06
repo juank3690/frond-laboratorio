@@ -31,7 +31,7 @@ import { useState, useEffect } from "react";
                 >
                   <p className="text-lg font-semibold">Músculo: {registro.musculo}</p>
                   <p>Tiempo: {registro.tiempo} minutos</p>
-                  <p>Fecha: {registro.feha}</p>
+                  <p>Fecha: {registro.fecha}</p>
                 </div>
               ))
             ) : (
